@@ -1,6 +1,6 @@
 # media_access_control_on_docker
 
-# MP3, 画像ファイルのアクセスコントロールテスト
+MP3, 画像ファイルのアクセスコントロールテスト
 
 ## Requirement
 
