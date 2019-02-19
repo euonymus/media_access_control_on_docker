@@ -6,11 +6,16 @@ MP3, 画像ファイルのアクセスコントロールテスト
 
 * Docker
 
-## How to test
+## Preparation
 
 ```
 $ git clone [this]
 $ cd [this_repo]
+```
+
+# Start Docker image
+
+```
 $ docker-compose build
 $ docker-compose up -d
 ```
